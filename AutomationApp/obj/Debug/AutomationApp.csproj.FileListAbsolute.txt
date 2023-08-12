@@ -1,0 +1,14 @@
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\AutomationApp.exe.config
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\AutomationApp.exe
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\AutomationApp.pdb
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\WebDriver.dll
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.csproj.AssemblyReference.cache
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.csproj.CoreCompileInputs.cache
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.csproj.CopyComplete
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.exe
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\obj\Debug\AutomationApp.pdb
+C:\Users\Dhrub\source\repos\AutomationApp\AutomationApp\bin\Debug\WebDriver.Support.dll
